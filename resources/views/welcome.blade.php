@@ -22,7 +22,8 @@
         <div class="title m-b-md">
             The North's Best Pizzas
         </div>
-        <a href="/pizzas/create">-- order a pizza --</a>
+         <!-- useing named route -->
+        <a href="{{ route('pizzas.create') }}">-- order a pizza --</a>
     </div>
 </div>
 @endsection
