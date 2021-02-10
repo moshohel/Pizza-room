@@ -15,6 +15,8 @@
                     @endif
 
                     You are logged in!
+                    <p><a href="/pizzas/create">-- Order a pizza order --</a> </p>
+                    <p><a href="/pizzas">View all pizza order</a> </p>
                 </div>
             </div>
         </div>
